@@ -74,7 +74,7 @@ Build a real-world SOC Analyst portfolio through hands-on cybersecurity projects
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 
 I’m open to networking and collaboration in cybersecurity and Blue Team learning.
 
