@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 I’m William, a self-taught cybersecurity learner focused on defensive security and growing into a SOC Analyst role. This repo documents my journey labs, mistakes, and lessons while building strong Blue Team, detection engineering, and SOC operations skills.
 
 ---
@@ -25,7 +25,7 @@ I’m William, a self-taught cybersecurity learner focused on defensive security
 
 ---
 
-## 🎯 About This Project
+## About This Project
 This repository tracks my 28-day SOC Analyst learning journey. Each day is a real cybersecurity project focused on:
 - Threat detection
 - Incident response
@@ -69,7 +69,7 @@ This repository tracks my 28-day SOC Analyst learning journey. Each day is a rea
 
 ---
 
-## 🚀 Goal
+## Goal
 Build a real-world SOC Analyst portfolio through hands-on cybersecurity projects and documentation and become hireable as an entry-level Blue Team analyst.
 
 
