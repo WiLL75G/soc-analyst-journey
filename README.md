@@ -72,7 +72,13 @@ This repository tracks my 28-day SOC Analyst learning journey. Each day is a rea
 ## Goal
 Build a real-world SOC Analyst portfolio through hands-on cybersecurity projects and documentation and become hireable as an entry-level Blue Team analyst.
 
+---
 
+## 🔗 Connect with Me
+
+I’m open to networking and collaboration in cybersecurity and Blue Team learning.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gokahwilliam)
 
 ---
                              ⚡ “Detect. Analyze. Respond. Repeat.” ⚡
