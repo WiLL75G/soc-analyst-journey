@@ -21,7 +21,7 @@ I'm William passionate about defensive securtiy, self-taught and building toward
 ---
 
 ## 📊 Project Board
-👉 [View My Project Board]()
+👉 [View My Project Board](https://github.com/users/WiLL75G/projects/3/views/2?layout_template=board)
 
 ---
 
