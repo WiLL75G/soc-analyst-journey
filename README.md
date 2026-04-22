@@ -11,7 +11,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Current status:** Day 01 complete ✅ — actively building.
+**Current status:** Day 01 complete ✅ actively building.
 
 ---
 
@@ -70,7 +70,7 @@ This repository tracks my 28-day SOC Analyst learning journey. Each day is a rea
 ---
 
 ## 🚀 Goal
-Build a real-world SOC Analyst portfolio through hands-on cybersecurity projects and documentation — and become hireable as an entry-level Blue Team analyst.
+Build a real-world SOC Analyst portfolio through hands-on cybersecurity projects and documentation and become hireable as an entry-level Blue Team analyst.
 
 
 
