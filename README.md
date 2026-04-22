@@ -1,5 +1,5 @@
 # 🛡️ SOC Analyst Journey 
-> 28-Day SOC Analyst Portfolio | Blue Team | Detection Engineering | Built in Public
+> 28-Day SOC Analyst Portfolio | Blue Team | Detection Engineering | Built in Public <
 
 **Target stack (building toward):**
 
@@ -16,7 +16,7 @@
 ---
 
 ## 👋 About Me
-I'm William (17), self-taught and building toward a SOC Analyst role. This repo documents my journey publicly — every lab, every mistake, every lesson. I'm focused on Blue Team fundamentals, detection engineering, and the practical skills that matter on a real SOC floor.
+I'm William passionate about defensive securtiy, self-taught and building toward a SOC Analyst role. This repo documents my journey publicly ~ every lab, every mistake, every lesson. I'm focused on Blue Team fundamentals, detection engineering, and the practical skills that matter on a real SOC floor.
 
 ---
 
