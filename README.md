@@ -1,4 +1,4 @@
-# 🛡️ SOC Analyst Journey — WiLL75
+# 🛡️ SOC Analyst Journey 
 > 28-Day SOC Analyst Portfolio | Blue Team | Detection Engineering | Built in Public
 
 **Target stack (building toward):**
