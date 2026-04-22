@@ -21,7 +21,7 @@ I'm William passionate about defensive securtiy, self-taught and building toward
 ---
 
 ## 📊 Project Board
-👉 [View My Project Board](https://github.com/users/WiLL75/projects/2/views/1)
+👉 [View My Project Board]()
 
 ---
 
@@ -38,7 +38,7 @@ This repository tracks my 28-day SOC Analyst learning journey. Each day is a rea
 ## 📁 All 28 SOC Analyst Projects
 | Day | Project | Status |
 |-----|--------|--------|
-| 01 | [SSH Brute Force Detection (Splunk)](https://github.com/WiLL75/ssh-brute-force-detection-splunk) | ✅ |
+| 01 | [SSH Brute Force Detection (Splunk)]() | ✅ |
 | 02 | Phishing Email Analysis | 🔲 Coming soon |
 | 03 | Network Port Scan Detection (Wireshark) | 🔲 Coming soon |
 | 04 | Windows Event Log Analysis | 🔲 Coming soon |
