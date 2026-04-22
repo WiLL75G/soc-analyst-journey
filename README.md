@@ -16,7 +16,7 @@
 ---
 
 ## 👋 About Me
-I'm William passionate about defensive securtiy, self-taught and building toward a SOC Analyst role. This repo documents my journey publicly every lab, every mistake, every lesson. I'm focused on Blue Team fundamentals, detection engineering, and the practical skills that matter on a real SOC floor.
+I’m William, a self-taught cybersecurity learner focused on defensive security and growing into a SOC Analyst role. This repo documents my journey—labs, mistakes, and lessons while building strong Blue Team, detection engineering, and SOC operations skills.
 
 ---
 
