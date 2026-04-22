@@ -71,6 +71,10 @@ This repository tracks my 28-day SOC Analyst learning journey. Each day is a rea
 
 ## 🚀 Goal
 Build a real-world SOC Analyst portfolio through hands-on cybersecurity projects and documentation — and become hireable as an entry-level Blue Team analyst.
+
+
+
+---
                              ⚡ “Detect. Analyze. Respond. Repeat.” ⚡
 
-
+---
