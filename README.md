@@ -74,11 +74,11 @@ Build a real-world SOC Analyst portfolio through hands-on cybersecurity projects
 
 ---
 
-## Connect with Me
+## 
 
-I’m open to networking and collaboration in cybersecurity and Blue Team learning.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gokah%20William-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gokahwilliam)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gokahwilliam)
+Open to networking and collaboration in cybersecurity and Blue Team learning.
 
 ---
                              ⚡ “Detect. Analyze. Respond. Repeat.” ⚡
