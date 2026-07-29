@@ -52,7 +52,7 @@ Both reported by me. The remediation PR was opened by a community contributor.
 
 ---
 
-## 📦 Featured Projects
+## Featured Projects
 
 The detection, triage, and incident response work most representative of day-to-day SOC and detection engineering operations.
 
